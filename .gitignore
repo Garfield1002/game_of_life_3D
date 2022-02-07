@@ -1,3 +1,9 @@
+.idea
+
 ## Ignore Visual Studio temporary files and build results
 .vs/
 out/
+build/
+builds/
+cmake-build-debug/
+CmakePresets.json
