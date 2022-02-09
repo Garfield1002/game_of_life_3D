@@ -9,8 +9,8 @@ will become alive in the next generation if 5 <= n <= 5.
 
 The choice of this rule as well as the more complicated structures come from [Carter Bays, *Candidates for the Game of Life in Three Dimensions*](https://content.wolfram.com/uploads/sites/13/2018/02/01-3-1.pdf)
 
-## 📷 Screenshot
-🖼
+## 🎥 Preview
+![](https://github.com/Garfield1002/game_of_life_3D/blob/master/.github/3DGameOfLife.gif)
 
 
 ## ⚙ Controls
